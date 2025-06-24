@@ -411,7 +411,7 @@ hr{
     z-index: 3;
     }
    .nav li{
-    margin-top: 40px;
+    margin-top: 25px;
     font-family: cursive;
     color: var(--primary-color);
     list-style: none;
@@ -433,6 +433,7 @@ hr{
     padding-top: 10px;
      }
      .color{
-        color: var(--primary-color);
+        color: var(--secondary-color);
      }
+}
 }
